@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xC92CcA656A98Be2a2E3cdCc2742Bb650447dD2C0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mystery Of The Keys NFT",
+  "SYMBOL": "MoKNFT",
+  "MAX_SUPPLY": 4444,
+  "free": 5,
+  "DISPLAY_COST": 0.0009,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 20,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mysteryofthekeysnft",
+  "Twitter": "https://twitter.com/mysteryofkeys",
+  "SHOW_BACKGROUND": true
+}
